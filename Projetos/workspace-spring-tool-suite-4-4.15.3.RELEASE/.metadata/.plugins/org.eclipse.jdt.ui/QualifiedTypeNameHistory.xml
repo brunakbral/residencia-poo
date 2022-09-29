@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.text.Annotation"/>
+    <fullyQualifiedTypeName name="conta.Conta"/>
+    <fullyQualifiedTypeName name="Funcionarios.Funcionario"/>
+    <fullyQualifiedTypeName name="Conta.ContaCorrente"/>
+    <fullyQualifiedTypeName name="Conta.ContaPoupanca"/>
+    <fullyQualifiedTypeName name="Cliente.Cliente"/>
+</qualifiedTypeNameHistroy>
